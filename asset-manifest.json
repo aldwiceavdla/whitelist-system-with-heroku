@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Developpeur-Ethereum-Template/static/css/main.5e4e9510.chunk.css",
-    "main.js": "/Developpeur-Ethereum-Template/static/js/main.95ec3c5b.chunk.js",
-    "main.js.map": "/Developpeur-Ethereum-Template/static/js/main.95ec3c5b.chunk.js.map",
-    "runtime-main.js": "/Developpeur-Ethereum-Template/static/js/runtime-main.9ae799f3.js",
-    "runtime-main.js.map": "/Developpeur-Ethereum-Template/static/js/runtime-main.9ae799f3.js.map",
-    "static/css/2.63f31f8d.chunk.css": "/Developpeur-Ethereum-Template/static/css/2.63f31f8d.chunk.css",
-    "static/js/2.449e88e9.chunk.js": "/Developpeur-Ethereum-Template/static/js/2.449e88e9.chunk.js",
-    "static/js/2.449e88e9.chunk.js.map": "/Developpeur-Ethereum-Template/static/js/2.449e88e9.chunk.js.map",
-    "index.html": "/Developpeur-Ethereum-Template/index.html",
-    "precache-manifest.438ac2c2def85304854e1c00ff394b93.js": "/Developpeur-Ethereum-Template/precache-manifest.438ac2c2def85304854e1c00ff394b93.js",
-    "service-worker.js": "/Developpeur-Ethereum-Template/service-worker.js",
-    "static/css/2.63f31f8d.chunk.css.map": "/Developpeur-Ethereum-Template/static/css/2.63f31f8d.chunk.css.map",
-    "static/css/main.5e4e9510.chunk.css.map": "/Developpeur-Ethereum-Template/static/css/main.5e4e9510.chunk.css.map"
+    "main.css": "/whitelist-system-with-heroku/static/css/main.5e4e9510.chunk.css",
+    "main.js": "/whitelist-system-with-heroku/static/js/main.ee6409d2.chunk.js",
+    "main.js.map": "/whitelist-system-with-heroku/static/js/main.ee6409d2.chunk.js.map",
+    "runtime-main.js": "/whitelist-system-with-heroku/static/js/runtime-main.0c3d8abb.js",
+    "runtime-main.js.map": "/whitelist-system-with-heroku/static/js/runtime-main.0c3d8abb.js.map",
+    "static/css/2.63f31f8d.chunk.css": "/whitelist-system-with-heroku/static/css/2.63f31f8d.chunk.css",
+    "static/js/2.f9abdb5b.chunk.js": "/whitelist-system-with-heroku/static/js/2.f9abdb5b.chunk.js",
+    "static/js/2.f9abdb5b.chunk.js.map": "/whitelist-system-with-heroku/static/js/2.f9abdb5b.chunk.js.map",
+    "index.html": "/whitelist-system-with-heroku/index.html",
+    "precache-manifest.471d36c94304ea4a1db0d9888253617f.js": "/whitelist-system-with-heroku/precache-manifest.471d36c94304ea4a1db0d9888253617f.js",
+    "service-worker.js": "/whitelist-system-with-heroku/service-worker.js",
+    "static/css/2.63f31f8d.chunk.css.map": "/whitelist-system-with-heroku/static/css/2.63f31f8d.chunk.css.map",
+    "static/css/main.5e4e9510.chunk.css.map": "/whitelist-system-with-heroku/static/css/main.5e4e9510.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.9ae799f3.js",
+    "static/js/runtime-main.0c3d8abb.js",
     "static/css/2.63f31f8d.chunk.css",
-    "static/js/2.449e88e9.chunk.js",
+    "static/js/2.f9abdb5b.chunk.js",
     "static/css/main.5e4e9510.chunk.css",
-    "static/js/main.95ec3c5b.chunk.js"
+    "static/js/main.ee6409d2.chunk.js"
   ]
 }
